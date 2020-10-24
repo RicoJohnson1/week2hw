@@ -52,7 +52,7 @@ p {
 
 .hero {
     height: 800px;
-    width: 100%;
+    width: 50%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
@@ -70,7 +70,7 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 50%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -119,72 +119,72 @@ p {
 .benefit-lead img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 100px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 75%;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 75%;
 }
 
 .search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    margin-bottom: 100%;
+    padding: 50%;
+    height: 200px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    margin-bottom: 100%;
+    padding: 50%;
+    height: 200px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    margin-bottom: 100%;
+    padding: 50%;
+    height: 200px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 100px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 100px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 100px;
 }
 
 .search-engine-optimization h2 {
-    margin-bottom: 20px;
+    margin-bottom: 50%;
     font-size: 36px;
 }
 
 .online-reputation-management h2 {
-    margin-bottom: 20px;
+    margin-bottom: 50%;
     font-size: 36px;
 }
 
 .social-media-marketing h2 {
-    margin-bottom: 20px;
+    margin-bottom: 50%;
     font-size: 36px;
 }
 
