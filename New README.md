@@ -1,0 +1,3 @@
+About My Site:
+
+Hey Ms. Toni, welcome to my site… well your site technically, with some minor touch up. I don’t know if you're going to read this, but it was a good little homework/activity assignment to practice our knowledge and skills. When I was first attempting to refactor the website, it wasn’t even displaying the image or even linked to the css file. So the first thing I tried to do is link the css file to the html format. After that, i’m not going to lie, I was up for days and nights looking for a way to make the website functional and accessible. Everything I was doing was bringing up the website with no changes and I was going crazy. After a while I was just researching css and finally was able to fix up the website. 
